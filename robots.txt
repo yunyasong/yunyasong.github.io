@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vicshi94.github.io/sitemap.xml
+Sitemap: https://yunyasong.github.io/sitemap.xml
