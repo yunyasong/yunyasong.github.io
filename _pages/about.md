@@ -42,6 +42,8 @@ She is the editor of Communication & Society (TSSCI) and serves as the associate
 <hr />
 <H3>Selected Publication</H3>
 <p><em><strong>Selected Articles</strong></em></p>
+<p>Ku, K.L., Li, J., Luo, Y., Song, Y. (2025) Correction approaches and hashtag framing in addressing Mpox misinformation on Instagram. Health Education Research, 40(2). (SSCI)</p>
+<p>Song, Y., Schuldt, J.P., Zhang, Y., Wang, Z., Yuan, Y.C., Zou, S., Li, J. (2025). Bridging ideologies: analyzing the use of moral language and framing in social media discourse on climate change by U.S. congress members through computational approaches. Climatic Change, 178(56).</p>
 <p>Song, Y., Lu, Y., Tsang, S. J., Zhang, J., & Ku, K. Y. (2025). When Corrections Fail: Effects of Misinformation Targets, Repeated Exposure, and Partisanship on Misinformation Beliefs. International Journal of Communication, 19, 25. (SSCI)</p>
 <p>Zhang, C., Yuan, C. Y., Wei, L., Jung, J. Y., Qiu, J. L., Hwang, S., & Song, C. Y. (2025). Self-Enhancement Mentality or Cognitive Preferences? Unpacking Different Approaches to Understanding Cultural Variations in Attribution Patterns. Cross-Cultural Research, 10693971241309964.</p>
 <p>Alipour, F., Dokshin, F., Maleki, Z., Song, Y., & Ramazi, P. (2024). Enough But Not Too Many: A Bi-threshold Model for Behavioral Diffusion. PNAS nexus, 3(10), pgae428.</p>
