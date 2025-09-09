@@ -42,10 +42,17 @@ She is the editor of Communication & Society (TSSCI) and serves as the associate
 <hr />
 <H3>Selected Publication</H3>
 <p><em><strong>Selected Articles</strong></em></p>
+<p>Song, Y., Zhang, Y., Zou, S., Yang, X. & Huang, Q. (2025). The spread of pro- and anti-vaccine views by coordinated communities on facebook during COVID-19 pandemic. Journal of Computational Social Science. 8, 98.</p>
+<p>Song, Y., Su, C. C., Lu, Y., Huang, Q., & Schuldt, J. P. (2025). How do moral values relate to climate change attitudes? An analysis of language use on X (formerly Twitter) and Weibo. Journal of Environmental Psychology, 106, 102736. (SSCI)</p>
+<p>Zhong, B., Song, Y., Feng, G. C., Shi, J., Zhu, Y., Xie, L., Zhou, W. A., Yu, S., Lu, Y., Qin, Y., & Xiong, Z. (2025). AI imaginaries shape technological identity and digital futures. Computers in Human Behavior, 169, 108682. (SSCI)</p>
+<p>Ku, K. Y. L., Fung, T. M. Y., Au, A. C. Y., Choy, A. Y. O., Kajimoto, M., & Song, Y. (2025). Helping young students cope with the threat of fake news: efficacy of news literacy training for junior-secondary school students in Hong Kong. Educational Studies, 51(4), 588–606. (SSCI)</p>
+<p>Wu, P., Zou, S., Chen, C., & Song, Y. (2025). Hotbed of stigmatization or source of support: A multimodal analysis of mental health-related videos on Douyin. Computers in Human Behavior, 172, 108716. (SSCI)</p>
+<p>Yin, Q., Zhong, L., Song, Y., Bai, L., Wang, Z., Li, C., Xu, Y., & Yang, X. (2025). A decision support system in precision medicine: contrastive multimodal learning for patient stratification. Annals of Operations Research, 348(1), 104390. (SCI)</p>
 <p>Ku, K.L., Li, J., Luo, Y., Song, Y*. (2025) Correction approaches and hashtag framing in addressing Mpox misinformation on Instagram. Health Education Research, 40(2). (corresponding author) (SSCI)</p>
 <p>Song, Y., Schuldt, J.P., Zhang, Y., Wang, Z., Yuan, Y.C., Zou, S., Li, J. (2025). Bridging ideologies: analyzing the use of moral language and framing in social media discourse on climate change by U.S. congress members through computational approaches. Climatic Change, 178(56).</p>
 <p>Song, Y., Lu, Y., Tsang, S. J., Zhang, J., & Ku, K. Y. (2025). When Corrections Fail: Effects of Misinformation Targets, Repeated Exposure, and Partisanship on Misinformation Beliefs. International Journal of Communication, 19, 25. (SSCI)</p>
 <p>Zhang, C., Yuan, C. Y., Wei, L., Jung, J. Y., Qiu, J. L., Hwang, S., & Song, C. Y. (2025). Self-Enhancement Mentality or Cognitive Preferences? Unpacking Different Approaches to Understanding Cultural Variations in Attribution Patterns. Cross-Cultural Research, 10693971241309964.</p>
+<p>Ku, K. Y. L., Lu, Y., Zhou, Y., & Song, Y. (2025). Fake news sharing and correction driven by COVID-19 prosociality. Journal of Applied Journalism and Media Studies, 1-22.</p>
 <p>Alipour, F., Dokshin, F., Maleki, Z., Song, Y., & Ramazi, P. (2024). Enough But Not Too Many: A Bi-threshold Model for Behavioral Diffusion. PNAS nexus, 3(10), pgae428.</p>
 <p>Song, Y., Li, J., & Zou, S. (2024). Women on China’s Internet: Consumption, Contestation, and Challenges for Empowerment. Communication and the Public, 9(4), 392-400. (SSCI)</p>
 <p>Song, Y., Xu, R., Huang, Y. H. C., Ni, S., & Fan, Y. (2024). Assessing the Interplay Between Public Attention and Government Responsiveness With Digital Trace Data: Navigating Leadership and Followership in China’s COVID-19 Vaccination Campaign. Social Science Computer Review, 08944393241258217.</p>
@@ -93,6 +100,7 @@ She is the editor of Communication & Society (TSSCI) and serves as the associate
 <p>Xiao, X., Huang, Y. H. C., & Song, Y. (Eds.) (2016). Communication & Society in Perspective. Hong Kong: Chinese University of Hong Kong Press. (in Chinese)</p>
 <p>Song, Y., & Wang, L. (2010). Media in American Politics: Contents and Consequences, 2nd Edition (Translation). By David Paletz. Nanjing: Nanjing University Press.</p>
 <p><em><strong>Selected Grants</strong></em></p>
+<p>Strategic Fund for Futuristic Business Research: "Generative Artificial Intelligence as a Cognitive Partner for Human Responders" (Role: Co- Principal Investigator)</p>
 <p>PROCORE- France/HK Joint Research Scheme, Research Grants Council of Hong Kong: "Revisiting China-France Digital Public Diplomacy in a Post-pandemic World: Challenges and Innovations" (Role: Principal Investigator)</p>
 <p>Humanities and Social Sciences Prestigious Fellowship Scheme (HSSPFS), Research Grants Council of Hong Kong: "Networked Framing in the Age of Hybrid Media" (Role: Principal Investigator)</p>
 <p>Policy Research Funding Scheme (PPR), HKSAR Policy Innovation and Coordination Office: "Building Resilience to Information Disorder in Hong Kong: An Investigation of Rumor Exposure and Dissemination in Times of Public Crisis" (Role: Principal Investigator)</p>
