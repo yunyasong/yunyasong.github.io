@@ -42,7 +42,7 @@ She is the editor of Communication & Society (TSSCI) and serves as the associate
 <hr />
 <H3>Selected Publication</H3>
 <p><em><strong>Selected Articles</strong></em></p>
-<p>Song, Y., Zhang, Y., Zou, S., Yang, X. & Huang, Q. (2025). The spread of pro- and anti-vaccine views by coordinated communities on facebook during COVID-19 pandemic. Journal of Computational Social Science. 8, 98.</p>
+<p>Song, Y., Zhang, Y., Zou, S., Yang, X. & Huang, Q. (2025). The spread of pro- and anti-vaccine views by coordinated communities on facebook during COVID-19 pandemic. Journal of Computational Social Science. 8, 98. (SSCI)</p>
 <p>Song, Y., Su, C. C., Lu, Y., Huang, Q., & Schuldt, J. P. (2025). How do moral values relate to climate change attitudes? An analysis of language use on X (formerly Twitter) and Weibo. Journal of Environmental Psychology, 106, 102736. (SSCI)</p>
 <p>Zhong, B., Song, Y., Feng, G. C., Shi, J., Zhu, Y., Xie, L., Zhou, W. A., Yu, S., Lu, Y., Qin, Y., & Xiong, Z. (2025). AI imaginaries shape technological identity and digital futures. Computers in Human Behavior, 169, 108682. (SSCI)</p>
 <p>Ku, K. Y. L., Fung, T. M. Y., Au, A. C. Y., Choy, A. Y. O., Kajimoto, M., & Song, Y. (2025). Helping young students cope with the threat of fake news: efficacy of news literacy training for junior-secondary school students in Hong Kong. Educational Studies, 51(4), 588–606. (SSCI)</p>
