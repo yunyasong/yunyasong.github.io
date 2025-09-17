@@ -34,11 +34,10 @@ Having studied at Nanjing University, Ecole Supérieure de Journalisme de Lille,
 She is the editor of Communication & Society (TSSCI) and serves as the associate editor for Computers in Human Behavior (SSCI) and Mass Communication and Society (SSCI). She is also the Award Chair of the International Chinese Communication Association (國際中華傳播學會). Prior to joining HKUST, she was a professor and associate dean at the School of Communication, Hong Kong Baptist University, where she also served as the director of the AI and Media Research Lab.
 <hr />
 <H3>Research Interest</H3>
-<p><strong>Digital Media</strong></p>
+<p><strong>Media Intelligence</strong></p>
 <p><strong>Global Communication</strong></p>
-<p><strong>Social Media Analytics</strong></p>
 <p><strong>Cyberpsychology and Behavior</strong></p>
-<p><strong>Computational Social Science</strong></p>
+<p><strong>AI in the Social Science and Humanities</strong></p>
 <hr />
 <H3>Selected Publication</H3>
 <p><em><strong>Selected Articles</strong></em></p>
