@@ -2,7 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Associate Head and Professor, Division of Emerging Interdisciplinary Areas, The Hong Kong University of Science and Technology</strong>
+subtitle: 
+  <strong>
+    Associate Head and Professor, Division of Emerging Interdisciplinary Areas, <br>
+    Director of Media Intelligence Research Center, <br> 
+    The Hong Kong University of Science and Technology
+  </strong>
 
 profile:
   align: right
